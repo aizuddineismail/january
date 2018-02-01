@@ -29,8 +29,8 @@ export default class WelcomeScreen extends React.Component {
 
         <View style={styles.messageWrapper}>
           <Text style={styles.message}>Thank you for using this application
-          {'\n'}This application is made by referring to
-          {'\n'}www.japaneseverbconjugator.com
+          {'\n'}Privacy Policy can be found here:
+          {'\n'}http://aizuddineismail.blogspot.my/p/privacy-policy.html
           {'\n'}I hope this app will be helpful to everyone
           </Text>
         </View>

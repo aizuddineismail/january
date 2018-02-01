@@ -9,7 +9,8 @@
      "bundleIdentifier": "com.gmail.aizuddineismail"
    },
    "android": {
-     "package": "com.gmail.aizuddineismail"
+     "package": "com.gmail.aizuddineismail",
+     "permissions": []
    }
   }
 }
